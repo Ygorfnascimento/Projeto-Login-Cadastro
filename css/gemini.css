@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    background-color: #1b1c30;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.logo {
+    width: 150px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+}
+
+.titulo {
+    margin-bottom: 30px;
+}
+
+input {
+    width: 250px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #252639;
+    color: white;
+}
+
+button {
+    width: 250px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.link {
+    color: #7FFFD4; /* Cor aquamarine */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Efeito de transição ao passar o mouse */
+}
+
+.link:hover {
+    color: #00FFFF; /* Azul claro ao passar o mouse */
+}
