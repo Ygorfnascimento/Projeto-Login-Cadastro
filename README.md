@@ -1,46 +1,37 @@
-<h1 align="center">🔐 Projeto Login e Cadastro</h1>
+# 🔐 Projeto: Login e Cadastro (Desafio IA)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-concluído-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" />
-</p>
-
-Projeto front-end criado a partir de um **prompt aplicado em diferentes IAs**, com o objetivo de gerar e comparar páginas de login.
+Este repositório contém o desenvolvimento de um projeto Front-end criado a partir de um único prompt aplicado em diferentes Inteligências Artificiais. O objetivo principal é gerar, organizar e comparar os resultados visuais e estruturais de páginas de login e cadastro produzidas por IA.
 
 ---
 
-## 💻 Sobre o projeto
+## 🎯 Objetivo
 
-Criação de um **único prompt**, utilizado nas IAs **ChatGPT**, **DeepSeek** e **Gemini**, para gerar a **página principal de login**.  As diferentes versões geradas foram organizadas neste repositório para **comparação dos resultados**.
+Explorar o potencial de ferramentas de IA generativa no desenvolvimento de interfaces, validando:
 
----
-
-## ⚙️ Funcionalidades
-
-- Páginas de login geradas por diferentes IAs  
-- Comparação visual entre os resultados  
-- Navegação entre as versões  
-
-> ⚠️ Observação: este projeto não possui autenticação real ou back-end.
+* A capacidade de interpretação de um mesmo prompt por diferentes modelos (**ChatGPT**, **DeepSeek** e **Gemini**).
+* A qualidade, semântica e organização do código (**HTML5**, **CSS3** e **JavaScript**) gerado por cada ferramenta.
+* A eficiência na criação de componentes visuais modernos e responsivos através de engenharia de prompt.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 📂 Estrutura do Repositório
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+O projeto está organizado para facilitar a análise comparativa dos códigos e dos resultados visuais obtidos:
+
+* **`/css`:** Arquivos de estilização isolados para cada uma das versões (`chatgpt.css`, `deepseek.css`, `gemini.css` e `cadastro.css`).
+* **`/img`:** Recursos visuais e logotipos utilizados na interface.
+* **`/projeto`:** Capturas de tela (prints) dos prompts utilizados e do resultado visual final de cada IA.
+* **`index.html`:** Página centralizadora que serve como portal para navegar e alternar entre as versões.
+* **`cadastro.html`:** Estrutura da página de cadastro associada ao fluxo.
+
+> ⚠️ **Observação:** Este projeto é puramente Front-end e focado na interface do usuário (UI). Não possui autenticação real, integração com bancos de dados ou lógica de Back-end.
 
 ---
 
-## 🚀 Como visualizar o projeto
+## 🛠️ Tecnologias Utilizadas
 
-### Acesso remoto
-Acesse a versão hospedada no GitHub Pages, sem necessidade de instalação.
+* **Estruturação:** HTML5
+* **Estilização:** CSS3
+* **Comportamento Visual:** JavaScript
 
-👉 https://ygorfnascimento.github.io/Projeto-Login-Cadastro/
-
-### Execução local
-Clone o repositório para visualizar e editar o projeto localmente.
-```bash
-git clone https://github.com/Ygorfnascimento/Projeto-Login-Cadastro.git
+---
