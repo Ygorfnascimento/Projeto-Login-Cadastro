@@ -9,7 +9,7 @@ Este repositório contém o desenvolvimento de um projeto Front-end criado a par
 Explorar o potencial de ferramentas de IA generativa no desenvolvimento de interfaces, validando:
 
 * A capacidade de interpretação de um mesmo prompt por diferentes modelos (**ChatGPT**, **DeepSeek** e **Gemini**).
-* A qualidade, semântica e organização do código (**HTML5**, **CSS3** e **JavaScript**) gerado por cada ferramenta.
+* A qualidade, semântica e organização do código (**HTML5** e **CSS3**) gerado por cada ferramenta.
 * A eficiência na criação de componentes visuais modernos e responsivos através de engenharia de prompt.
 
 ---
@@ -32,6 +32,5 @@ O projeto está organizado para facilitar a análise comparativa dos códigos e 
 
 * **Estruturação:** HTML5
 * **Estilização:** CSS3
-* **Comportamento Visual:** JavaScript
 
 ---
